@@ -1,0 +1,2 @@
+# ServiceRegistry
+eureka server
